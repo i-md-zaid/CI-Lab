@@ -3,4 +3,4 @@ def add(a, b):
 
 
 def hello():
-    return "Hello, World!"
+    return "Hello, python3.0!"
